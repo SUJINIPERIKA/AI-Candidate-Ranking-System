@@ -1,0 +1,51 @@
+rank,id,name,title,score,reason
+1.0,CAND_0000031,Ela Singh,Recommendation Systems Engineer,90,5 skills matched | AI score: 50
+2.0,CAND_0000001,Ira Vora,Backend Engineer,60,4 skills matched | AI score: 40
+3.0,CAND_0000032,Pranav Agarwal,.NET Developer,40,2 skills matched | AI score: 20
+3.0,CAND_0000038,Myra Trivedi,Java Developer,40,2 skills matched | AI score: 20
+3.0,CAND_0000043,Aarav Sen,Cloud Engineer,40,2 skills matched | AI score: 20
+4.0,CAND_0000010,Aarav Kapoor,Data Engineer,30,2 skills matched | AI score: 20
+4.0,CAND_0000015,Rahul Agarwal,Software Engineer,30,1 skills matched | AI score: 10
+5.0,CAND_0000006,Rajesh Desai,Business Analyst,20,0 skills matched | AI score: 0
+5.0,CAND_0000007,Vihaan Bose,Civil Engineer,20,0 skills matched | AI score: 0
+5.0,CAND_0000020,Aditya Iyengar,Mechanical Engineer,20,0 skills matched | AI score: 0
+5.0,CAND_0000029,Priya Sethi,Business Analyst,20,0 skills matched | AI score: 0
+5.0,CAND_0000035,Vikram Verma,Full Stack Developer,20,1 skills matched | AI score: 10
+5.0,CAND_0000046,Dev Nair,Mechanical Engineer,20,0 skills matched | AI score: 0
+6.0,CAND_0000011,Deepak Desai,QA Engineer,10,1 skills matched | AI score: 10
+6.0,CAND_0000027,Avni Pandey,DevOps Engineer,10,1 skills matched | AI score: 10
+6.0,CAND_0000048,Vihaan Saxena,Mobile Developer,10,0 skills matched | AI score: 0
+7.0,CAND_0000002,Saanvi Sethi,Operations Manager,0,0 skills matched | AI score: 0
+7.0,CAND_0000008,Shaurya Chatterjee,Operations Manager,0,0 skills matched | AI score: 0
+7.0,CAND_0000009,Amit Shah,Mechanical Engineer,0,0 skills matched | AI score: 0
+7.0,CAND_0000012,Anjali Krishnan,Operations Manager,0,0 skills matched | AI score: 0
+7.0,CAND_0000013,Pari Nair,Civil Engineer,0,0 skills matched | AI score: 0
+7.0,CAND_0000021,Rahul Joshi,Project Manager,0,5 skills matched | AI score: 50
+7.0,CAND_0000022,Shaurya Chatterjee,Mechanical Engineer,0,0 skills matched | AI score: 0
+7.0,CAND_0000023,Kavya Nair,Software Engineer,0,0 skills matched | AI score: 0
+7.0,CAND_0000028,Rohan Krishnan,Operations Manager,0,0 skills matched | AI score: 0
+7.0,CAND_0000034,Yash Chatterjee,Business Analyst,0,0 skills matched | AI score: 0
+7.0,CAND_0000037,Ved Sen,Business Analyst,0,0 skills matched | AI score: 0
+7.0,CAND_0000041,Anjali Khanna,Operations Manager,0,0 skills matched | AI score: 0
+7.0,CAND_0000049,Tanya Chowdary,Mechanical Engineer,0,0 skills matched | AI score: 0
+7.0,CAND_0000050,Naina Bose,Business Analyst,0,0 skills matched | AI score: 0
+8.0,CAND_0000014,Atharv Joshi,Frontend Engineer,-20,1 skills matched | AI score: 10
+8.0,CAND_0000044,Vihaan Naidu,Frontend Engineer,-20,1 skills matched | AI score: 10
+9.0,CAND_0000016,Aanya Malhotra,Accountant,-30,0 skills matched | AI score: 0
+9.0,CAND_0000018,Vivaan Reddy,Frontend Engineer,-30,0 skills matched | AI score: 0
+9.0,CAND_0000019,Myra Mishra,Project Manager,-30,0 skills matched | AI score: 0
+9.0,CAND_0000024,Rajesh Arora,HR Manager,-30,0 skills matched | AI score: 0
+9.0,CAND_0000025,Anika Kumar,Frontend Engineer,-30,0 skills matched | AI score: 0
+9.0,CAND_0000026,Neha Rao,Graphic Designer,-30,0 skills matched | AI score: 0
+9.0,CAND_0000033,Shreya Nair,Graphic Designer,-30,0 skills matched | AI score: 0
+9.0,CAND_0000042,Riya Mukherjee,HR Manager,-30,0 skills matched | AI score: 0
+10.0,CAND_0000030,Ritu Pillai,Marketing Manager,-40,0 skills matched | AI score: 0
+11.0,CAND_0000003,Yash Agarwal,Customer Support,-50,0 skills matched | AI score: 0
+11.0,CAND_0000004,Anil Bose,Marketing Manager,-50,0 skills matched | AI score: 0
+11.0,CAND_0000005,Aisha Sethi,Accountant,-50,0 skills matched | AI score: 0
+11.0,CAND_0000017,Anil Pandey,Accountant,-50,0 skills matched | AI score: 0
+11.0,CAND_0000036,Ananya Bose,Project Manager,-50,0 skills matched | AI score: 0
+11.0,CAND_0000039,Sai Saxena,Marketing Manager,-50,0 skills matched | AI score: 0
+11.0,CAND_0000040,Dev Vora,Customer Support,-50,0 skills matched | AI score: 0
+11.0,CAND_0000045,Vikram Mittal,Project Manager,-50,0 skills matched | AI score: 0
+11.0,CAND_0000047,Avni Bansal,Project Manager,-50,0 skills matched | AI score: 0

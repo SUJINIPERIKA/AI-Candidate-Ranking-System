@@ -1,4 +1,4 @@
-# AI Candidate Ranking System
+Candidate Ranking System
 
 AI-based system that ranks candidates using hybrid scoring (AI relevance + skill matching) instead of simple keyword filtering.
 
@@ -18,4 +18,4 @@ Python, Pandas, Matplotlib
 - FINAL_CANDIDATE_RANKING.csv
 
 ## Goal
-To simulate a smart recruiter system that finds the best-fit candidates using AI-based ranking logic.
+To simulate a smart recruiter system that finds the best-fit candidates using AI-b
